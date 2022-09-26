@@ -13,7 +13,7 @@ public class Hotel {
             Scanner s=new Scanner(System.in);
             while (true) {
                 System.out.println("enter the choice");
-                System.out.println("1.frutiy 10$");
+                System.out.println("1.frutie 10$");
                 System.out.println("2.juice 30$");
                 System.out.println("3.puffs 25$");
                 System.out.println("4. Cake 150 $");
